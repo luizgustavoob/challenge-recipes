@@ -29,7 +29,7 @@ Em seu navegador, ou no client de APIs REST de sua preferência, realize a segui
 ```
 http://localhost:3333/recipes/?i={ingredient_1},{ingredient_2},{ingredient_3}
 ```
-sendo que os ingredientes deverão ser substituídos pelos texto de preferência do usuário (ex: onions, tomato, garlic, etc). Como resposta, você deverá receber um JSON semelhante a estrutura a seguir:
+sendo que os ingredientes deverão ser substituídos pelos textos de preferência do usuário (ex: onions, tomato, garlic, etc). Como resposta, você deverá receber um JSON semelhante a estrutura a seguir:
 ```
 {
 	"keywords": ["onions","garlic"],
